@@ -1,0 +1,7 @@
+de/ri/frakit/handler/HelpIntentHandler.class
+de/ri/frakit/handler/LaunchRequestHandler.class
+de/ri/frakit/handler/SessionEndedRequestHandler.class
+de/ri/frakit/skillhandler/HelloWorldStreamHandler.class
+de/ri/frakit/handler/HelloWorldIntentHandler.class
+de/ri/frakit/handler/FallbackIntentHandler.class
+de/ri/frakit/handler/CancelandStopIntentHandler.class
